@@ -1,4 +1,4 @@
 # pizza_hut
-A landing page of pizza.
+A grid project.
 live preview
 https://github.com/onemizan/pizza_hut
